@@ -1,0 +1,2 @@
+# Human-age-and-gender-recognition-using-Deep-Learning
+A model that predicts human and and gender. Classification type approach rather than regression to maintain a low margin of error. Gender has two classes namely 'Male' and 'Female'. Age has 8 classes which are (0-2), (4-6), (8-12), (15-20), (25-32), (38-43), (48-53), (60-100) (8 nodes in the final softmax layer).  Three Convolutional Neural Network layers are there in this project. Two fully connected layers and a final softmax layer is also there.
